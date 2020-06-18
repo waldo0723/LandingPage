@@ -276,7 +276,7 @@ outline: none;
 @media (max-width:420px)
 {
   body{
-    width: 410px;
+    width: auto;
     text-align: center;
   }
 
