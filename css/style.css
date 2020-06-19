@@ -424,9 +424,11 @@ margin-left: 25px;
 }
 .grow{
   width: auto;
+   background-size:200px 200px;
 }
 .users{
     width: auto;
+     background-size:200px 200px;
 }
 .mob{
   margin-bottom:0;
