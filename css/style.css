@@ -422,11 +422,11 @@ margin-left: 25px;
 .footer-button{
   margin-left: 200px;
 }
-  .grow{
-  background-size:400px 200px;
+.grow{
+  width: auto;
 }
 .users{
-    background-size:400px 200px;
+    width: auto;
 }
 .mob{
   margin-bottom:0;
