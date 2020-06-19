@@ -426,17 +426,17 @@ margin-left: 25px;
 .footer{
   width: auto;
   background-size:500px 200px;
-  height: 100px;
+  height: 150px;
 }
 .grow{
   width: auto;
-   background-size:500px 400px;
-     height: 400px;
+   background-size:500px 200px;
+     height: 150px;
 }
 .users{
     width: auto;
-     background-size:400px 400px;
-       height: 400px;
+     background-size:400px 200px;
+       height: 150px;
 }
 .mob{
   margin-bottom:0;
